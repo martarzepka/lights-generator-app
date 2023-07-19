@@ -3,3 +3,11 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+.nav {
+  display: flex
+}
+
+.nav > * {
+  margin-right: 32px;
+}
