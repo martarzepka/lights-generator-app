@@ -1,6 +1,6 @@
 import { useState } from "react";
-import LightTurnedOff from "/images/light-turned-off.svg";
-import LightBlue from "/images/light-blue.svg";
+import LightTurnedOff from "/public/images/light-turned-off.svg";
+import LightBlue from "/public/images/light-blue.svg";
 
 export const SingleLight = () =>
 {
